@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'jekyll-seo'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.executables << 'jekyll-seo'
   s.date        = '2015-04-05'
   s.summary     = "Jekyll SEO Gem"
