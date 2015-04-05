@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'jekyll-seo'
+puts JekyllSeo.new(ARGV[0])
