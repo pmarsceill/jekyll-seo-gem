@@ -5,8 +5,13 @@ A gem version of @bhardin's SEO Jekyll tool (https://github.com/bhardin/jekyll-s
 ### Install the gem
 `bundle install jekyll-seo`
 
-### Run the `jekyll-seo` command on a compiled post against some keywords
-`$ jekyll-seo -k "optimize jekyll for seo" _site/2012/06/open-source-attribution/index.html`
+### Run the `jekyll-seo` command
+
+Use the `-k` flag to input specifc keywords to check against.
+
+```
+$ jekyll-seo -k "optimize jekyll for seo" _site/2012/06/open-source-attribution/index.html`
+```
 
 ### Output
 ```
