@@ -10,15 +10,15 @@ A gem version of @bhardin's SEO Jekyll tool (https://github.com/bhardin/jekyll-s
 Use the `-k` flag to input specifc keywords to check against.
 
 ```
-$ jekyll-seo -k "optimize jekyll for seo" _site/2012/06/open-source-attribution/index.html`
+$ jekyll-seo -k "welcome to jekyll" -p _site/jekyll/update/2015/04/05/welcome-to-jekyll.html
 ```
 
 ### Output
 ```
-Analyzing Post: _site/2012/06/open-source-attribution/index.html...
+Analyzing Post: _site/jekyll/update/2015/04/05/welcome-to-jekyll.html...
 
-Article Heading: true (2)
+Article Heading: true (1)
 Page title: true (1)
-Content: true (12)
-Meta description: true (1)
+Content: true (1)
+Meta description: false (0)
 ```
