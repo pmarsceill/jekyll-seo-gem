@@ -3,7 +3,7 @@ A gem version of @bhardin's SEO Jekyll tool (https://github.com/bhardin/jekyll-s
 
 ## Usage
 ### Install the gem
-`bundle install jekyll-seo`
+`gem install jekyll-seo`
 
 ### Run the `jekyll-seo` command
 
