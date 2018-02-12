@@ -1,4 +1,7 @@
 # jekyll-seo-gem
+
+[![Gem Version](https://badge.fury.io/rb/jekyll-seo.svg)](https://badge.fury.io/rb/jekyll-seo)
+
 A gem version of @bhardin's SEO Jekyll tool (https://github.com/bhardin/jekyll-seo-script)
 
 ## Usage
