@@ -8,7 +8,7 @@ A gem version of @bhardin's SEO Jekyll tool (https://github.com/bhardin/jekyll-s
 ### Install the gem
 `gem install jekyll-seo`
 
-### Run the `jekyll-seo` command
+### Run the jekyll-seo command
 
 Use the `-k` flag to input specifc keywords to check against, and the `-p` flag to specify the path to the post.
 
