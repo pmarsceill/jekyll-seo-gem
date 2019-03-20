@@ -5,6 +5,9 @@
 *A gem version of [@bhardin]("//github.com/bhardin")'s [SEO Jekyll tool](https://github.com/bhardin/jekyll-seo-script)*
 
 ## Usage
+### Requirements
+`gem install nokogiri`
+
 ### Install the gem
 `gem install jekyll-seo`
 
